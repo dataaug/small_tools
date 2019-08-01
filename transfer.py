@@ -1,4 +1,4 @@
-#将突破转换为固定大小并且保持比例
+#将图片转换为固定大小并且保持比例
 import cv2
 item = 'input.jpeg'
 dress = cv2.imread(item)
